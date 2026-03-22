@@ -1,5 +1,7 @@
 # 🧠 NeuralMind — Rede Neural do Zero
 https://redeneural-qkgchsrmgfoaajcapncbin.streamlit.app/
+
+
 Aplicação educacional interativa que implementa uma **Rede Neural Artificial completa usando apenas NumPy** — sem PyTorch, TensorFlow ou Keras. Classifica flores do dataset Iris e expõe cada etapa do aprendizado de forma visual e explicada.
 
 > Projeto da série **ML Educativo** — aprender Machine Learning construindo do zero.
